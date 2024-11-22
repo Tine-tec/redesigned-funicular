@@ -1,1 +1,3 @@
-Git is cool
+<<<<<<< HEAD
+Git is super cool!
+>>>>>>> feature2
