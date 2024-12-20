@@ -4,6 +4,7 @@
 title: "city-guide.qmd" format: html editor: visual ---
 
 *My partner's favourite cinema/theater* ---**His favourite cinema is the Pathé de Kuip** it ~~was~~ is famous for the most visitors in one day!
+Added by sharon: a good place to relax in Rotterdam is the Kralingse Bos near Erasmus University Campus.
 =======
 ---
 title: "city-guide.qmd"
